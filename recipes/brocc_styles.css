@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#sec-header {
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    text-decoration: underline;
+}
+
+p,
+li {
+    font-family: Verdana, 'Times New Roman', sans-serif;
+}
+
+button {
+    background-color: #2ff0f0;
+    color: #b85bee;
+    font-weight: bold;
+}
